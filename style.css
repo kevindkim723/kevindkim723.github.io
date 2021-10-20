@@ -19,3 +19,11 @@
   /* When the animation is finished, start again */
   animation-iteration-count: infinite; 
 }
+p {
+  font-size: 20px;
+}
+
+figcaption {
+  font-style: italic;
+  padding: 2px;
+}
